@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelMunagaba
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning database management system
+- 🌱 I’m currently purshing computer science
 - 💞️ I’m looking to collaborate in this field so that i may become conversant in this field
 - 📫 How to reach me ...+260978309558
 
